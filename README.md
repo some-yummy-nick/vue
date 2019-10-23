@@ -1,3 +1,3 @@
 vue tutorial
 
-https://scrimba.com/playlist/pRB9Hw
+https://scrimba.com/playlist/pXKqta
